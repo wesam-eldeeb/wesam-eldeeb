@@ -26,19 +26,21 @@
 
 
 
-### Connect with Me :
+<h2 align="center">📫 Connect with Me</h2>
 
-<a href="https://www.linkedin.com/in/wesam-eldeeb2244/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Wesam%20Eldeeb-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/wesam-eldeeb2244/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Wesam%20Eldeeb-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-<a href="mailto:wessamahmed340@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-wessamahmed340@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <a href="mailto:wessamahmed340@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-<a href="https://t.me/wesam04" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-@wesam04-229ED9?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
+  <a href="https://t.me/wesam04" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-@wesam04-229ED9?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+</p>
 
 <a href="https://www.buymeacoffee.com/WesamEldeeb" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/lato-orange.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
