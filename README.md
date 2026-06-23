@@ -48,6 +48,12 @@
   </a>
 </p>
 
+
+
+<a href="https://www.buymeacoffee.com/WesamEldeeb" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/lato-orange.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+عاوزه حاجه احسن
+
+
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
