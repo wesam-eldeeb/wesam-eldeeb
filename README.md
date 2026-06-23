@@ -43,16 +43,13 @@
 </p>
 
 ر
-
-
 <a href="https://www.linkedin.com/in/wesam-eldeeb2244/" target="_blank">
   <img 
-    src="https://img.shields.io/badge/تابعني-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="تابعني على لينكدإن"
+    src="https://img.shields.io/badge/Follow%20Me-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="Follow Me on LinkedIn"
     style="height: 50px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;"
   />
 </a>
-
 
 <a href="https://www.buymeacoffee.com/WesamEldeeb" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/lato-orange.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
