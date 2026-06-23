@@ -12,10 +12,17 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20%26%20Machine%20Learning%20;Full-Stack%20.NET%20Developer;Digilians%20Graduate;ITI%20Graduate;Always%20Learning%20New%20Things&font=Fira%20Code&center=true&width=650&height=45&color=f75c7e&vCenter=true&size=22">
 </a>
 
-- 🏢 I'm a Software Engineer And Web Devoloper
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, Angular, and .net, or anything related to web development.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
+
+- 👩‍💻 Full-Stack .NET Developer | AI & Machine Learning Enthusiast.
+
+- 🎓 Computer Science graduate ,ITI trainee and Digilians trainee, passionate about building real-world software and AI solutions.
+
+- 💬 Ask me about .NET, Angular, C#, Python, AI, Machine Learning, and Software Development.
+
+- 🌱 Currently learning advanced AI technologies, LLMs, and intelligent systems.
+
+
+
 
 
 
