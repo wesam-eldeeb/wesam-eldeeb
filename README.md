@@ -44,17 +44,20 @@
 
 ر
 <p align="center">
-  <a href="https://www.linkedin.com/in/wesam-eldeeb2244/" target="_blank">
+  <a 
+    href="https://www.linkedin.com/in/wesam-eldeeb2244/" 
+    target="_blank"
+    style="
+      display: inline-block;
+      border-radius: 15px;
+      overflow: hidden;
+      box-shadow: 0px 3px 2px rgba(190,190,190,0.5);
+    "
+  >
     <img 
       src="https://img.shields.io/badge/Follow%20Me-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="Follow Me on LinkedIn"
-      style="
-        height: 50px !important;
-        width: 174px !important;
-        border-radius: 25px !important;
-        box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;
-        -webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;
-      "
+      alt="Follow Me"
+      style="height: 50px; width: 174px;"
     />
   </a>
 </p>
