@@ -7,8 +7,9 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20.NET%20Developer;AI%20%26%20Machine%20Learning%20Enthusiast;Digilians%20Graduate;ITI%20Graduate;Always%20Learning%20New%20Things&font=Fira%20Code&center=true&width=650&height=45&color=f75c7e&vCenter=true&size=22">
+  
+ <a href="https://github.com/DenverCoder1/readme-typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20%26%20Machine%20Learning%20Enthusiast;Full-Stack%20.NET%20Developer;Digilians%20Graduate;ITI%20Graduate;Always%20Learning%20New%20Things&font=Fira%20Code&center=true&width=650&height=45&color=f75c7e&vCenter=true&size=22">
 </a>
 
 - 🏢 I'm a Software Engineer And Web Devoloper
